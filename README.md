@@ -4,5 +4,5 @@ I'm a passionate mobile developer, focusing on building large scale apps at work
 
 Find me on social networks:
 
-X: https://twitter.com/antranapp
-LinkedIn: https://www.linkedin.com/in/antranapp/
+- X: https://twitter.com/antranapp
+- LinkedIn: https://www.linkedin.com/in/antranapp/
